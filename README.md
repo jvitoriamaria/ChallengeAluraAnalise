@@ -24,5 +24,4 @@ Através deste desafio, foram realizadas etapas importantes como:
 - Seaborn
 - Google Colab (opcional)
 
-## 📁 Estrutura do Repositório
 
